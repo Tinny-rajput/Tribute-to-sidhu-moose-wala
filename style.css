@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins' , sans-serif;
+}
+
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),#480000), url(levels.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.music img{
+    width: 300px;
+}
+.music{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(syl\ bg.png);
+    display: flex;
+}
+.music2  img{
+    width: 300px;
+}
+.music2{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(Everybody_Hurts.jpg);
+    display: flex;
+}
+.music3 img{
+    width: 300px;
+}
+.music3{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(maxresdefault.jpg);
+    display: flex;
+}
+.music4 img{
+    width: 300px;
+}
+.music4{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(0-100.jpg);
+    display: flex;
+}
+.music5 img{
+    width: 300px;
+}
+.music5{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(never-fold.jpg);
+    display: flex;
+}
+.music6 img{
+    width: 300px;
+}
+.music6{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(bloodlust.jpg);
+    display: flex;
+}
+.music7 img{
+    width: 300px;
+}
+.music7{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(levels.jpg);
+    display: flex;
+}
+.music8 img{
+    width: 300px;
+}
+.music8{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(Sidhu_Moose_Wala_1653837271481_1653837286566.jpeg);
+    display: flex;
+}
+.music9 img{
+    width: 300px;
+}
+.music9{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(scapegoat.jpg);
+    display: flex;
+}
+.music10 img{
+    width: 300px;
+}
+.music10{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-image: url(fuck.jpg);
+    display: flex;
+}
+
+.info{
+    color: #fff;
+    margin-left: 30px;
+    flex: 1;
+
+}
+
+.info p{
+    font-size: 20px;
+    margin: 10px 0 60px;
+}
+
+.controls{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.controls img{
+    width: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
